@@ -1,4 +1,4 @@
-### Hello visitor, I'm bharathappali 👋 . Thanks for coming here.
+### Hello visitor, I'm bharathappali 👋 . Thanks for visiting.
 
 <!--
 **bharathappali/bharathappali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
