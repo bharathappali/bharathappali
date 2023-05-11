@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=bharathappali&show_icons=true&count_private=true" width="500" height="auto"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathappali&layout=compact/" width="208" height="auto"/>
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bharathappali&theme=default&hide_border=false)
