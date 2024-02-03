@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <a href="mailto:bharath.appali@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=bharathappali&show_icons=true&count_private=true" width="500" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathappali" width="208" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathappali" width="220" height="auto"/>
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bharathappali&theme=default&hide_border=false)
